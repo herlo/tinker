@@ -1,6 +1,3 @@
-[submodule "tinker.wiki"]
-	path = wiki
-	url = git@github.com:herlo/tinker.wiki.git
 [submodule "wiki"]
 	path = wiki
-	url = git@github.com:herlo/tinker.wiki.git
+	url = git@github.com:utos/tinker.wiki.git
